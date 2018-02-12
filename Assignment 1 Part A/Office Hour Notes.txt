@@ -1,9 +1,0 @@
-1	Remove base case of 2 DONE
-
-2	Add print statements that execute if debug is true
-
-3	Add a basic description of each method	DONE
-
-4	Use only one of readInteger and sc.hasNextInt()/sc.nextInt()	DONE	
-
-Interesting Note:	< and > change the automatic input and output places
